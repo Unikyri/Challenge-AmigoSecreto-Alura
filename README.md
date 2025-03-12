@@ -10,6 +10,12 @@ Bienvenido a **Amigo Secreto**, una aplicación web interactiva y sencilla que t
 ✅ Totalmente gratuito y fácil de usar.
 
 ## 🎨 Capturas de Pantalla
+### 🎨 Pantalla principal
+En esta vista, los usuarios pueden ingresar los nombres de sus amigos y luego proceder con el sorteo.
+![image](https://github.com/user-attachments/assets/5a94d9bf-f499-4de1-a79c-11891e6f7144)
+### 🎲 Sorteo realizado
+Una vez ingresados los nombres, el sistema selecciona un amigo secreto al azar y lo muestra en pantalla.
+![image](https://github.com/user-attachments/assets/a3edb2e9-fa8a-4520-85b3-0509680fcb9d)
 
 
 ## 📌 Tecnologías Utilizadas
