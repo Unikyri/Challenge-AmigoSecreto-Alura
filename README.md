@@ -37,6 +37,7 @@ Si deseas ejecutar esta aplicación en tu computadora:
 
 ## 🌐 Despliegue en GitHub Pages
 Esta aplicación está disponible en línea en el siguiente enlace:
+https://unikyri.github.io/Challenge-AmigoSecreto-Alura/
 
 ## 👤 Autor
 **Unikyri** ✨
